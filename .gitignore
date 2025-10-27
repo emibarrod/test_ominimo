@@ -1,0 +1,7 @@
+.DS_Store
+*.pdf
+src/dbt_project/logs/
+src/dbt_project/target/
+*.duckdb
+*.duckdb.*
+.user.yml

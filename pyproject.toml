@@ -8,12 +8,9 @@ version = "0.0.0"
 description = "A small Python project created in the test_ominimo workspace"
 authors = [ { name = "Emilio Barragán"} ]
 readme = "README.md"
-license = { file = "LICENSE" }
 requires-python = ">=3.13"
 classifiers = [
-    "Programming Language :: Python :: 3",
-    "License :: OSI Approved :: MIT License",
-    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3"
 ]
 
 dependencies = [

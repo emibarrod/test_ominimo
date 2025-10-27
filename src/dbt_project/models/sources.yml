@@ -1,0 +1,11 @@
+version: 2
+
+sources:
+  - name: raw_data
+    tables:
+      - name: policies
+        meta:
+          external_location: "models/raw/data/policies.parquet"
+      - name: quotes
+        meta:
+          external_location: "models/raw/data/quotes.parquet"
